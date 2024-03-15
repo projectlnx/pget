@@ -1,1 +1,4 @@
-ee working!;
+ee installing pget...;
+cc pget;
+st pget fetch https://raw.githubusercontent.com/projectlnx/pget/main/ww;
+ee done!;
