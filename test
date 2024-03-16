@@ -1,4 +1,4 @@
-ee installing pget...;f
-cc pget;f
-st pget fetch https://raw.githubusercontent.com/projectlnx/pget/main/ww;f
-ee done!;
+ee installing pget...;i
+cc pget;i
+st pget fetch https://raw.githubusercontent.com/projectlnx/pget/main/ww;o ee done!;o;i
+ee done!;i
