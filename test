@@ -1,0 +1,4 @@
+ee installing pget...;i
+cc pget;i
+st pget sh site https://raw.githubusercontent.com/projectlnx/pget/main/();i
+ee done!;i
