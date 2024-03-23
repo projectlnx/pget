@@ -1,0 +1,15 @@
+ee Welcome to tmpdat!;i
+ee initialising...;i
+ee installing(0%);i
+cc tmpdat;i
+ee installing(10%);i
+cv /tmpdat/;i
+ee installing(24%);i
+cc tmpdat1;i
+ee installing(38%);i
+st tmpdat1 ev /tmpdat/ 8;o;i
+ee installing(63%);i
+st tmpdat ev /tmpdat/ ();o if '/tmpdat/ > 8 s tmpdat1;o;i
+ee installing(88%);i
+ee installing(100%);i
+ee Done!;i
