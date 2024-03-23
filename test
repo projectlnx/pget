@@ -1,5 +1,0 @@
-ee installing pget...;i
-cc bin/pget;i
-st pget sh site https://raw.githubusercontent.com/projectlnx/pget/main/();o;i
-ee done!;i
-bb;i
